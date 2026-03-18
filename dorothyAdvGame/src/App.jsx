@@ -19,7 +19,7 @@ function App() {
     //Game Over Result
     gameOver: {
       Img: {
-        src: "/assets/game_over_img.jpg",
+        src: "assets/game_over_img.jpg",
         alt: "Skull Image"
       },
       Text: "Your lives have reached zero! Game Over!",
@@ -49,7 +49,7 @@ function App() {
     //PASS OR FAIL PATHS FOR ENCOUNTERS
     passRollTree: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! The Trees roots break beneath your strength. You live! You shout, 'I have no time for games you wicked Tree! I have a friend to save!'",
@@ -65,7 +65,7 @@ function App() {
 
     failRollTree: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! The Trees roots grow tight on your ankles and you trip down the hill. You hear the Tree laugh horridyly as you fall... You lost a life! Get to zero and you lose...",
@@ -81,7 +81,7 @@ function App() {
 
     passRollTrap: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! You successfully use your agility to jump off the trap in time. You survive!",
@@ -97,7 +97,7 @@ function App() {
 
     failRollTrap: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! You attempt to step off the plate, but you aren't fast enough! Suddenly theres a loud whack and you launch forward. You lose a life, get to zero you fail.",
@@ -113,7 +113,7 @@ function App() {
 
     passRollWitch: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! You've broken free from the witch's curse blasting the witch backwards with your strong spirit. You survive! You run away.",
@@ -129,7 +129,7 @@ function App() {
 
     failRollWitch: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! The witch laughs as her curse grows tighter around you. You feel the power toss you and land hard, you lose a life! Get to zero and you fail.",
@@ -145,7 +145,7 @@ function App() {
 
     passRollPoppy: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! You fight through the Wicked Witch's laughs, you burst through the field no problem! You hear the witch scream with rage. You survive!",
@@ -161,7 +161,7 @@ function App() {
 
     failRollPoppy: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! The magic and storm are too strong for you...You suddenly fall into the field into a fast sleep. You lose a life! Get to zero and you fail.",
@@ -177,7 +177,7 @@ function App() {
 
     passRollTroll: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! You successfully overpower the cave troll! You push the troll over the bridge and into the river! You survive!",
@@ -193,7 +193,7 @@ function App() {
 
     failRollTroll: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! You manage to outsmart the troll but the damage is done! You lose a life! Get to zero and you fail.",
@@ -209,7 +209,7 @@ function App() {
 
     passRollTrollSleep: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! You manage to sneak past the sleeping troll as he snores. Success! You survive!",
@@ -225,7 +225,7 @@ function App() {
 
     failRollTrollSleep: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! You start walking past the troll and accidentally knock over the trolls wooden weapon on his head! You lose a life! Get to zero and you fail!",
@@ -241,7 +241,7 @@ function App() {
 
     passRollMimic: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! You run as fast as you can. The mimic slowly attempts to lunge and you but are faster! Success! You survive!",
@@ -257,7 +257,7 @@ function App() {
 
     failRollMimic: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! You run as fast as you can. But as soon as you exit the tunnel, the mimic is able to bite at your ankle. You lose a life. Get to zero and you fail!",
@@ -273,7 +273,7 @@ function App() {
 
     passRollMonkey: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You rolled a passing check! You best the Flying Monkey guard as he tries to lunge at you with his spear. You dodge and you are able to knock him out. Success! You survive!",
@@ -289,7 +289,7 @@ function App() {
 
     failRollMonkey: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! The Flying Monkey guard is too fast! You barely manage to escape and trap him in the room, but the damage is done. You lose a life. Get to zero and you fail!",
@@ -305,7 +305,7 @@ function App() {
 
     passRollWickedWitch: {
       Img: {
-        src: "/assets/pass_icon.svg",
+        src: "assets/pass_icon.svg",
         alt: "Green Check mark"
       },
       Text: "You have worked so hard for this moment. The journey was long and dangerous. And you manged to best the Wicked Witch of the West!",
@@ -321,7 +321,7 @@ function App() {
 
     failRollWickedWitch: {
       Img: {
-        src: "/assets/failed_icon.svg",
+        src: "assets/failed_icon.svg",
         alt: "Red x mark"
       },
       Text: "You rolled a failed check! You try hard to beat the Wicked Witch. But she is truly the strongest witch. She beats you with her broomstick on fire. You lose a life. Get to zero and you fail!",
@@ -338,7 +338,7 @@ function App() {
     //Starting Paths
     sceneZero: {
       Img: {
-        src: "/assets/scene_zero.jpg",
+        src: "assets/scene_zero.jpg",
         alt: "Ruby Slipper"
       },
       Text: "Goal: Dorothy has been stolen by the Wicked Witch of West and needs to be saved by you at the witch's castle! You will need to travel through The Haunted Forest and face perilous dangers in order to save your friend in time. Choose your choices wisely!",
@@ -354,7 +354,7 @@ function App() {
 
     sceneOne: {
       Img: {
-        src: "/assets/scene_one_img.jpg",
+        src: "assets/scene_one_img.jpg",
         alt: "Two Paths Image"
       },
       Text: "ATTENTION: DOROTHY IS MISSING. STOLEN BY THE WICKED WITCH. YOUR TASK IS TO FIND HER. CHOOSE YOUR PATH WISELY.",
@@ -370,7 +370,7 @@ function App() {
 
     sceneTwoA: {
       Img: {
-        src: "/assets/scene_two_a_first.jpg",
+        src: "assets/scene_two_a_first.jpg",
         alt: "Cartoon Talking Tree"
       },
       Text: "Tree: 'You! Shhhhhh...evil lurks on every corner here. If it's the castle you seek, tread carefully...my advice will guide you true.'",
@@ -386,7 +386,7 @@ function App() {
 
     sceneTwoB: {
       Img: {
-        src: "/assets/scene_two_b.jpg",
+        src: "assets/scene_two_b.jpg",
         alt: "Cartoon Wind Chimes"
       },
       Text: "You hear chimes resonating a tune. It's calm and warm. There's a note on the tree: 'Help is near, ring the chimes for good fortune.'",
@@ -402,7 +402,7 @@ function App() {
 
     sceneThreeA: {
       Img: {
-        src: "/assets/scene_two_a.jpg",
+        src: "assets/scene_two_a.jpg",
         alt: "Cartoon Talking Tree"
       },
       Text: "Tree: 'HAHAHA... YOU FOOL!!' The Tree's roots begin to wrap around you and you need to roll to save your life!",
@@ -418,7 +418,7 @@ function App() {
 
     sceneThreeB: {
       Img: {
-        src: "/assets/scene_three_b.jpg",
+        src: "assets/scene_three_b.jpg",
         alt: "Witch with Candle"
       },
       Text: "When you ring the chimes, a witch comes around the corner. Witch: 'Hello dear. Are you lost? I would gladly cast a spell on you to help you find your way?'",
@@ -434,7 +434,7 @@ function App() {
 
     sceneThreeC: {
       Img: {
-        src: "/assets/scene_three_c.jpg",
+        src: "assets/scene_three_c.jpg",
         alt: "Dark Forest Image"
       },
       Text: "As you go deeper into the woods, the foliage gets thicker and the ground becomes uneven. Suddenly, you step on something and hear a click…",
@@ -450,7 +450,7 @@ function App() {
 
     sceneFourA: {
       Img: {
-        src: "/assets/scene_four_a.jpg",
+        src: "assets/scene_four_a.jpg",
         alt: "Dark Forest Path"
       },
       Text: "There are two roads again. What will you choose?",
@@ -466,7 +466,7 @@ function App() {
 
     sceneFourB: {
       Img: {
-        src: "/assets/scene_four_b.jpg",
+        src: "assets/scene_four_b.jpg",
         alt: "Sparkle with Butterflies"
       },
       Text: "You trust the witch. And… She's pleasant! She casts a luck charm on you and you will now be teleported farther.",
@@ -482,7 +482,7 @@ function App() {
 
     sceneFourC: {
       Img: {
-        src: "/assets/scene_four_c.jpg",
+        src: "assets/scene_four_c.jpg",
         alt: "Evil Witch with Wand"
       },
       Text: "You run past the witch but you suddenly stop in your tracks! You feel a dark magic on you, trapping you... you are turned around and see the witch's eyes turn evil…'YOU DISTRUST ME?!?'",
@@ -498,7 +498,7 @@ function App() {
 
     sceneFourD: {
       Img: {
-        src: "/assets/scene_four_d.jpg",
+        src: "assets/scene_four_d.jpg",
         alt: "Dark Pine Bush Foliage"
       },
       Text: "You go into the silent path, and all of sudden you hear a small 'GRRRRRRR!' come from one of the bushes.",
@@ -514,7 +514,7 @@ function App() {
 
     sceneFourE: {
       Img: {
-        src: "/assets/scene_four_e.jpg",
+        src: "assets/scene_four_e.jpg",
         alt: "Yorkie Dog Photo"
       },
       Text: "Congratulations! You found a secret! You found… TOTO! Dorothy's dog recognizes you as a friend. He barks and confidently leads you.",
@@ -530,7 +530,7 @@ function App() {
 
     sceneFiveA: {
       Img: {
-        src: "/assets/scene_five_a.jpg",
+        src: "assets/scene_five_a.jpg",
         alt: "Field of Poppy Flowers"
       },
       Text: "You soon arrive to an open field of poppy flowers, you see a bridge right across the field.",
@@ -546,7 +546,7 @@ function App() {
 
     sceneFiveB: {
       Img: {
-        src: "/assets/scene_five_b.jpg",
+        src: "assets/scene_five_b.jpg",
         alt: "Bridge to Castle"
       },
       Text: "You go around the field, out of fear of the poppys. You are safe. Nothing happens. You find a break in the vast field, and see the bridge over a river that connects to the Castle.",
@@ -562,7 +562,7 @@ function App() {
 
     sceneFiveC: {
       Img: {
-        src: "/assets/scene_five_c.jpg",
+        src: "assets/scene_five_c.jpg",
         alt: "Storm Clouds with Lightning"
       },
       Text: "You run through the fields and you hear a sudden 'AHHAHAHA, you will not escape my pretties!' the air turns cold, a storm strikes, and you begin to feel sleepy…",
@@ -578,7 +578,7 @@ function App() {
 
     sceneFiveD: {
       Img: {
-        src: "/assets/scene_five_d.jpg",
+        src: "assets/scene_five_d.jpg",
         alt: "Underground Tunnel"
       },
       Text: "You choose to go into the secret tunnel under the river. You follow the small path that bypasses the bridge troll!",
@@ -594,7 +594,7 @@ function App() {
 
     sceneSixA: {
       Img: {
-        src: "/assets/scene_six_a.jpg",
+        src: "assets/scene_six_a.jpg",
         alt: "Troll Figure"
       },
       Text: "You arrive at the front of the Bridge that connects to the castle over the river. And suddenly you see a very large Bridge Toll that will surely crush you...",
@@ -610,7 +610,7 @@ function App() {
 
     sceneSixB: {
       Img: {
-        src: "/assets/scene_six_b.jpg",
+        src: "assets/scene_six_b.jpg",
         alt: "Treasure Chest"
       },
       Text: "You walk further into the tunnel and you find a glowing chest! It is tattered and worn but the inside is glowing a gold light. As you approach, the tunnel shakes. Or was it the chest?",
@@ -626,7 +626,7 @@ function App() {
 
     sceneSixC: {
       Img: {
-        src: "/assets/scene_six_c.jpg",
+        src: "assets/scene_six_c.jpg",
         alt: "Battle Armor and Sword"
       },
       Text: "You approach the troll, needing to fight. The troll grunts and seems to laugh at you.",
@@ -642,7 +642,7 @@ function App() {
 
     sceneSixD: {
       Img: {
-        src: "/assets/scene_six_d.jpg",
+        src: "assets/scene_six_d.jpg",
         alt: "Moon in Forest"
       },
       Text: "You wait for the troll to sleep close to midnight. It works. But for how long? It appears it is resting…",
@@ -658,7 +658,7 @@ function App() {
 
     sceneSixE: {
       Img: {
-        src: "/assets/scene_six_e.jpg",
+        src: "assets/scene_six_e.jpg",
         alt: "Red Moon"
       },
       Text: "You woke up the troll! The troll scoffs and picks up his wooden weapon. You must now confront the troll!",
@@ -674,7 +674,7 @@ function App() {
 
     sceneSixF: {
       Img: {
-        src: "/assets/scene_six_f.jpg",
+        src: "assets/scene_six_f.jpg",
         alt: "Sharp Cave"
       },
       Text: "You reach down and lift the unbuckled lock of the chest… You see hundreds of little sets of teeth and a tongue..IT IS A MIMIC! You were too greedy…",
@@ -690,7 +690,7 @@ function App() {
 
     sceneSevenA: {
       Img: {
-        src: "/assets/scene_seven_a.jpg",
+        src: "assets/scene_seven_a.jpg",
         alt: "Dark Castle"
       },
       Text: "You have made it. You have arrived at the Wicked Witch`s castle...",
@@ -706,7 +706,7 @@ function App() {
 
     sceneSevenB: {
       Img: {
-        src: "/assets/scene_seven_b.jpg",
+        src: "assets/scene_seven_b.jpg",
         alt: "Castle Doors"
       },
       Text: "The doors are large and dark, with dark letters of a language you do not understand…",
@@ -722,7 +722,7 @@ function App() {
 
     sceneSevenC: {
       Img: {
-        src: "/assets/scene_seven_cd.jpg",
+        src: "assets/scene_seven_cd.jpg",
         alt: "Castle Steps"
       },
       Text: "You are brave. You burst through the doors with fists above your head. And…no one is there",
@@ -738,7 +738,7 @@ function App() {
 
     sceneSevenD: {
       Img: {
-        src: "/assets/scene_seven_cd.jpg",
+        src: "assets/scene_seven_cd.jpg",
         alt: "Castle Steps"
       },
       Text: "You are certain the doors are locked. You keep clanging the metal rings until the doors swing open by the force. And…no one is there",
@@ -754,7 +754,7 @@ function App() {
 
     sceneSevenE: {
       Img: {
-        src: "/assets/scene_seven_e.jpg",
+        src: "assets/scene_seven_e.jpg",
         alt: "Castle Stairs"
       },
       Text: "Strange… the hall is clear. No chatter, no marching. Empty and full of silence.",
@@ -770,7 +770,7 @@ function App() {
 
     sceneEightA: {
       Img: {
-        src: "/assets/scene_eight_a.jpg",
+        src: "assets/scene_eight_a.jpg",
         alt: "Castle Stairs"
       },
       Text: "As you travel up the stairs you see normal portaits of a family. Trinkets and artwork that would seem normal if not for the dark hallways and ominous air...",
@@ -786,7 +786,7 @@ function App() {
 
     sceneEightB: {
       Img: {
-        src: "/assets/scene_eight_b.jpg",
+        src: "assets/scene_eight_b.jpg",
         alt: "Dungeon"
       },
       Text: "You begin to descend down beyond the castle floors into what seems to be a dungeon.",
@@ -802,7 +802,7 @@ function App() {
 
     sceneEightC: {
       Img: {
-        src: "/assets/scene_eight_c.jpg",
+        src: "assets/scene_eight_c.jpg",
         alt: "Two Doors"
       },
       Text: "As you climb to the landing of the tower, you see two doors that look promising.",
@@ -818,7 +818,7 @@ function App() {
 
     sceneEightD: {
       Img: {
-        src: "/assets/scene_eight_d.jpg",
+        src: "assets/scene_eight_d.jpg",
         alt: "Chains"
       },
       Text: "As you open the door on the left, you hear faint cries... It's a guard?!? The guard is chained up. He says, 'I turned against that witch. And she put me here to die. She is truly wicked…Dorothy doesn`t deserve this. Help me.'",
@@ -834,7 +834,7 @@ function App() {
 
     sceneEightE: {
       Img: {
-        src: "/assets/scene_eight_e.jpg",
+        src: "assets/scene_eight_e.jpg",
         alt: "Spear"
       },
       Text: "You open the right door… IT IS A TRAP! There is a Flying Monkey soldier with a spear that turns to you and snarls.",
@@ -850,7 +850,7 @@ function App() {
 
     sceneEightF: {
       Img: {
-        src: "/assets/scene_eight_f.jpg",
+        src: "assets/scene_eight_f.jpg",
         alt: "Broken Chains"
       },
       Text: "You released the shackled Guard. Guard: 'I cannot truly repay you for your kindness. I will help you stop her by guiding you to her'",
@@ -866,7 +866,7 @@ function App() {
 
     sceneEightG: {
       Img: {
-        src: "/assets/scene_eight_g.jpg",
+        src: "assets/scene_eight_g.jpg",
         alt: "Crystal Ball"
       },
       Text: "You end up in the dungeon jail cells. But again, you see no one. Not a single soldier or guard. The only thing in the room is a dark glass ball.",
@@ -882,7 +882,7 @@ function App() {
 
     sceneNineA: {
       Img: {
-        src: "/assets/scene_nine_a.jpg",
+        src: "assets/scene_nine_a.jpg",
         alt: "Clouds over Tower"
       },
       Text: "You arrive at the top of the castle. This is where you hear them all. The flying guards are in the air. The hum of the chants. She is here.",
@@ -898,7 +898,7 @@ function App() {
 
     sceneNineABall: {
       Img: {
-        src: "/assets/scene_nine_a.jpg",
+        src: "assets/scene_nine_a.jpg",
         alt: "Clouds over Tower"
       },
       Text: "The crystal ball bursts with energy, and you instantly arrive at the top of the castle. This is where you hear them all. The flying guards are in the air. The hum of the soldier chants. She is here.",
@@ -914,7 +914,7 @@ function App() {
 
     sceneNineB: {
       Img: {
-        src: "/assets/scene_nine_b.jpg",
+        src: "assets/scene_nine_b.jpg",
         alt: "Witch Holding Pumpkin with Green Smoke"
       },
       Text: "You approach the witch and demand she return Dorothy unharmed…The witch cackles with amusement, 'I fear no one, pretty. I am the Wicked Witch of the West! Your friend has something I want. And if she does not give it to me, well…you will see.'",
@@ -930,7 +930,7 @@ function App() {
 
     sceneNineC: {
       Img: {
-        src: "/assets/scene_nine_c.jpg",
+        src: "assets/scene_nine_c.jpg",
         alt: "Hand with Long Nails in Smoke"
       },
       Text: "You plead with the witch and beg her to let Dorothy go. Even falling to your knees. The witch smirks, she seems pleased but still dangerous. Witch: 'You are a smart one, eh? Tell Dorothy to give me the slippers. Or she will die!'",
@@ -946,7 +946,7 @@ function App() {
 
     sceneNineD: {
       Img: {
-        src: "/assets/scene_nine_d.jpg",
+        src: "assets/scene_nine_d.jpg",
         alt: "Dagger with Red Cloth"
       },
       Text: "You choose to fight the witch and be done with this. You must win to save Dorothy!",
@@ -962,7 +962,7 @@ function App() {
 
     sceneNineE: {
       Img: {
-        src: "/assets/scene_zero.jpg",
+        src: "assets/scene_zero.jpg",
         alt: "Ruby Slippers"
       },
       Text: "You turn to Dorothy, she is distraught with fear and dried tears on her face. You now plead with Dorothy to save us all and give up the slippers…",
@@ -978,7 +978,7 @@ function App() {
 
     sceneNineF: {
       Img: {
-        src: "/assets/scene_nine_f.jpg",
+        src: "assets/scene_nine_f.jpg",
         alt: "Fire in Circles"
       },
       Text: "The witch sees the bucket, her eyes turn black… Witch: 'How dare you threaten me! I do not take threats from rats like you!' She lights her broom on fire and begins to approach you. You attempt to fence her back with the bucket and a few droplets of water land on her. She screams in pain as it melts her skin...",
@@ -994,7 +994,7 @@ function App() {
 
     sceneTenA: {
       Img: {
-        src: "/assets/scene_zero.jpg",
+        src: "assets/scene_zero.jpg",
         alt: "Ruby Slippers"
       },
       Text: "Dorothy gives up her shoes. The Wicked Witch is cackling with pleasure and victory. Witch: 'Fools! No one can best me! Take your little friend, you are useless to me now!' The witch soars off in her broom…you've saved Dorothy…",
@@ -1010,7 +1010,7 @@ function App() {
 
     sceneTenB: {
       Img: {
-        src: "/assets/scene_ten_b.jpg",
+        src: "assets/scene_ten_b.jpg",
         alt: "Castle Sunset"
       },
       Text: "You bested the Wicked Witch of the West! You throw the bucket of water on the witch and she howls in pain. The screech echoes to her army, they disperse in fear. She melts into her robe and vanishes with a pop. You've saved Dorothy!",
@@ -1026,7 +1026,7 @@ function App() {
 
     sceneTenC: {
       Img: {
-        src: "/assets/scene_ten_c.jpg",
+        src: "assets/scene_ten_c.jpg",
         alt: "Orange and Green Smoke"
       },
       Text: "You have the upper hand. You know her weakness. You threaten her one last time to leave Dorothy or suffer her end. The witch snarls with anger but her eyes show more fear…with a bang she bursts into air with her army around her and vanishes into the horizon...You've saved Dorothy!",
@@ -1042,7 +1042,7 @@ function App() {
 
     endCredits: {
       Img: {
-        src: "/assets/end_credits.jpg",
+        src: "assets/end_credits.jpg",
         alt: "Holding a Crown"
       },
       Text: "Congratulations! You've completed the game! You save Dorothy and lived to tell the tale. This game was developed by Ben Gallegos, a Web Development student at Collin College. This game was made using a React Framework and is for educational purposes only.",
@@ -1058,7 +1058,7 @@ function App() {
 
     siteCredits: {
       Img: {
-        src: "/assets/site_credits.jpg",
+        src: "assets/site_credits.jpg",
         alt: "Journal with Writing"
       },
       Text: "Images were found on the platform Pexels.com and were noted as for Free to Use or Creative Commons purposes. I do not own any of the images in this game. *Game Story Content and Code was created by - Game Owner/Developer: Benjamin Gallegos",
