@@ -1,4 +1,4 @@
-# front_end_frameworks_semester_project
+# saving-dorothy-react-text-based-adventure-game
 Semester project for Front End Frameworks course at Collin College; Goal is to create a React project using React framework concepts for a text-based game.
 
 This game focuses on what I've learned about the React framework through my studies. In this project you'll see how we can use state to manage the "paths" that the user can take. Every branch or choice leads to a new one. The paths are stored in a complex object that is not only used to help manage the next scene from the choices but also other data to pass down to child components using props.
